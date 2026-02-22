@@ -1,0 +1,14 @@
+D:\Code Visual Studio Code\Bai 7 ( Kiem tra nam nhuan )\bin\Debug\net8.0\Bai 7 ( Kiem tra nam nhuan ).exe
+D:\Code Visual Studio Code\Bai 7 ( Kiem tra nam nhuan )\bin\Debug\net8.0\Bai 7 ( Kiem tra nam nhuan ).deps.json
+D:\Code Visual Studio Code\Bai 7 ( Kiem tra nam nhuan )\bin\Debug\net8.0\Bai 7 ( Kiem tra nam nhuan ).runtimeconfig.json
+D:\Code Visual Studio Code\Bai 7 ( Kiem tra nam nhuan )\bin\Debug\net8.0\Bai 7 ( Kiem tra nam nhuan ).dll
+D:\Code Visual Studio Code\Bai 7 ( Kiem tra nam nhuan )\bin\Debug\net8.0\Bai 7 ( Kiem tra nam nhuan ).pdb
+D:\Code Visual Studio Code\Bai 7 ( Kiem tra nam nhuan )\obj\Debug\net8.0\Bai 7 ( Kiem tra nam nhuan ).GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Visual Studio Code\Bai 7 ( Kiem tra nam nhuan )\obj\Debug\net8.0\Bai 7 ( Kiem tra nam nhuan ).AssemblyInfoInputs.cache
+D:\Code Visual Studio Code\Bai 7 ( Kiem tra nam nhuan )\obj\Debug\net8.0\Bai 7 ( Kiem tra nam nhuan ).AssemblyInfo.cs
+D:\Code Visual Studio Code\Bai 7 ( Kiem tra nam nhuan )\obj\Debug\net8.0\Bai 7 ( Kiem tra nam nhuan ).csproj.CoreCompileInputs.cache
+D:\Code Visual Studio Code\Bai 7 ( Kiem tra nam nhuan )\obj\Debug\net8.0\Bai 7 ( Kiem tra nam nhuan ).dll
+D:\Code Visual Studio Code\Bai 7 ( Kiem tra nam nhuan )\obj\Debug\net8.0\refint\Bai 7 ( Kiem tra nam nhuan ).dll
+D:\Code Visual Studio Code\Bai 7 ( Kiem tra nam nhuan )\obj\Debug\net8.0\Bai 7 ( Kiem tra nam nhuan ).pdb
+D:\Code Visual Studio Code\Bai 7 ( Kiem tra nam nhuan )\obj\Debug\net8.0\Bai 7 ( Kiem tra nam nhuan ).genruntimeconfig.cache
+D:\Code Visual Studio Code\Bai 7 ( Kiem tra nam nhuan )\obj\Debug\net8.0\ref\Bai 7 ( Kiem tra nam nhuan ).dll
